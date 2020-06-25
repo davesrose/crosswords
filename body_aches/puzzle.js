@@ -1,0 +1,31 @@
+{
+  "title": "Sample Puzzle",
+  "by": "By Line",
+  "clues": [
+	  { "d": "A", "n":2, "x":4, "y":1, "a":"FINGER", "c":"Identify a culprit"},
+	  { "d": "A", "n":3, "x":6, "y":4, "a":"ELBOW", "c":"Mac 'n Cheese noodle"},
+	  { "d": "A", "n":5, "x":0, "y":6, "a":"ARM", "c":"Make ready to harm"},
+	  { "d": "A", "n":7, "x":4, "y":6, "a":"SHOULDER", "c":"To carry the burden"},
+	  { "d": "A", "n":11, "x":2, "y":8, "a":"SPINE", "c":"Dewey uses this part of a book"},
+	  { "d": "A", "n":12, "x":11, "y":8, "a":"BACK", "c":"Where McCartney wanted Loretta to get"},
+	  { "d": "A", "n":15, "x":1, "y":11, "a":"GENERALIZED", "c":"Extrapolated results to entire population"},
+	  { "d": "A", "n":17, "x":5, "y":14, "a":"BODY", "c":"The message of an e-mail"},
+	  { "d": "A", "n":19, "x":9, "y":15, "a":"CALF", "c":"Beauregard, to Elsie and Elmer"},
+	  { "d": "A", "n":20, "x":1, "y":17, "a":"HAMSTRING", "c":"Twine for a pig's thigh, 2 words"},
+	  { "d": "A", "n":24, "x":1, "y":20, "a":"TOOTH", "c":"Point on a sprocket"},
+	  { "d": "D", "n":1, "x":6, "y":0, "a":"ANKLE", "c":"Bracelets that aren't jewelry"},
+	  { "d": "D", "n":4, "x":8, "y":4, "a":"BELLY", "c":"A type of dancer"},
+	  { "d": "D", "n":6, "x":2, "y":6, "a":"MUSCLE", "c":"A Roadrunner is this type of car"},
+	  { "d": "D", "n":8, "x":5, "y":6, "a":"HAND", "c":"To transfer an item"},
+	  { "d": "D", "n":9, "x":11, "y":6, "a":"RIB", "c":"To play a joke"},
+	  { "d": "D", "n":10, "x":13, "y":7, "a":"ACHY", "c":"Breaky heart"},
+	  { "d": "D", "n":13, "x":4, "y":10, "a":"HEAD", "c":"Type of wind in your face"},
+	  { "d": "D", "n":14, "x":10, "y":10, "a":"GENERAL", "c":"Washington was one"},
+	  { "d": "D", "n":16, "x":6, "y":11, "a":"ALLOVER", "c":"For ELO, where in the world it's raining, two words"},
+	  { "d": "D", "n":18, "x":4, "y":15, "a":"RASH", "c":"A decision too quick"},
+	  { "d": "D", "n":20, "x":1, "y":17, "a":"HURTING", "c":"Can’t pay the bills"},
+	  { "d": "D", "n":21, "x":8, "y":17, "a":"NECK", "c":"Make out"},
+	  { "d": "D", "n":22, "x":3, "y":19, "a":"FOOT", "c":"Twelve inches"},
+	  { "d": "D", "n":23, "x":5, "y":19, "a":"CHEST", "c":"Where hopes are kept"}
+  ]
+}
